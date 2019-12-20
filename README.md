@@ -9,14 +9,14 @@ There are two different versions of the code. The first one corresponds to the "
 
 User's Guide:
 
-· Run "server.py" in a terminal
-· Run "clientV1.py" in a different terminal
-· Insert the server IP or "127.0.0.1" if run locally
-· Insert the first operand value
-· Insert the operation
-· Insert the second operand value
-· The server will send the result of the computation and the client will print the result
-· (You can type "exit" to exit the program, just press enter to continue)
+- Run "server.py" in a terminal
+- Run "clientV1.py" in a different terminal
+- Insert the server IP or "127.0.0.1" if run locally
+- Insert the first operand value
+- Insert the operation
+- Insert the second operand value
+- The server will send the result of the computation and the client will print the result
+- (You can type "exit" to exit the program, just press enter to continue)
 
 The other version is the "client.py" file. This one takes the mathematical operation from a CSV file and receives the server result also in the command line as well as in a CSV file. 
 
